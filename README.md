@@ -88,4 +88,4 @@ The easiest way to share a live demo of this project is via **Streamlit Communit
 -   **Clean Separation**: Modular utility structure allows for easy expansion (e.g., adding OCR or accounting API integrations).
 
 ---
-*Created as a high-impact portfolio project for AI/Full-Stack roles.*
+*Created as a high-impact portfolio project for AI Automation/Integration/Solutions roles.*
