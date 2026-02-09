@@ -57,7 +57,6 @@ def extract_structured_data(text):
     RETURN ONLY VALID JSON.
     """
 
-    try:
     # List of models to try in order of preference
     models_to_try = [
         "gpt-4.1-nano-2025-04-14", # Most cost-effective
