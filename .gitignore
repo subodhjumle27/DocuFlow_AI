@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+api.env
+.streamlit/secrets.toml
+
+# Streamslit / System
+.streamlit/config.toml
+error.log
+streamlit.log
+
+# Project specific
+documents_data.csv
+make_pdfs.py
+generate_diverse_samples.py
+tests/

@@ -1,0 +1,8 @@
+streamlit
+pdfplumber
+openai
+sqlalchemy
+pandas
+python-dotenv
+pypdf2
+reportlab
