@@ -2,6 +2,8 @@
 
 **DocuFlow AI** is a lightweight, high-performance web application designed to automate the extraction of structured data from invoices and receipts. Built for efficiency and cost-effectiveness, it leverages Large Language Models (LLMs) to transform messy document text into actionable business intelligence.
 
+### 🔴 LIVE DEMO: [Click Here to Launch App](https://docuflowai-5m.streamlit.app/)
+
 ---
 
 ## 🚀 Core Features
